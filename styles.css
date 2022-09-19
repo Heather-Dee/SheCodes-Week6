@@ -1,0 +1,29 @@
+body {background: linear-gradient(109.6deg, rgb(255, 78, 80) 11.2%, rgb(249, 212, 35) 100.2%);}
+.search-button
+{
+background-color: #3E1E71;
+border: 1px;
+border-radius: 50px;
+color: white;
+font-size: 30px;
+}
+
+.current-location-button
+{
+    background-color: #3E1E71;
+    border: 1px;
+    border-radius: 50px;
+    color: white;
+    font-size: 14px;
+    }
+
+h1 {color: #3E1E71}
+  
+ul {
+color: white;
+font-size: 30px;
+list-style: none;
+padding: 0}
+  
+.temperature {color:#3E1E71;
+font-size: 50px;}
